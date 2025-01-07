@@ -1,6 +1,6 @@
 Nama Anggota Kelompok Tebas :
 
-Fahrur Risqi - 2311102059
+Fahrur Rizqi - 2311102059
 
 Ben Waiz Pintus W - 2311102169
 
