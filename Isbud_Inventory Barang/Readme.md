@@ -45,14 +45,14 @@ TUBES/
    - Mencatat barang keluar
 
 ### Kontribusi
-1.tambah (azka)
-2.ubah (pandia) 
-3.hapus (pandia) 
-4.transaksi(adit)
+#### 1.tambah (azka)
+#### 2.ubah (pandia) 
+#### 3.hapus (pandia) 
+#### 4.transaksi(adit)
    - masuk
    - keluar
-5.cari barang (Hendwi Saputra)
-6.tampilkan (ervan) 
+#### 5.cari barang (Hendwi Saputra)
+#### 6.tampilkan (ervan) 
    - tampil semua
    - tampil sorting
    - tampil transaksi
